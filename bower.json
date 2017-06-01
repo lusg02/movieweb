@@ -1,0 +1,27 @@
+{
+  "name": "movieweb",
+  "authors": [
+    "lusg02 <liusongxdu@gmail.com>"
+  ],
+  "description": "a movie web admimed by nodejs and mongodb",
+  "main": "",
+  "keywords": [
+    "nodejs",
+    "mongodb",
+    "bower"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "public/libs",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.7"
+  }
+}
