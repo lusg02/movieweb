@@ -6,7 +6,7 @@
 
 - 后端搭建：
 
-  ```json
+  ```javascript
   "dependencies": {
     "body-parser": "^1.17.2", // 解析表单`post`数据
     "express": "^4.15.3", // 项目基于`express`搭建
